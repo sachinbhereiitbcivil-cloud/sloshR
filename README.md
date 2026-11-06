@@ -1,8 +1,6 @@
 # sloshR
 R package to read, analyse and visualise NOAA SLOSH storm surge model runs: batch-convert rex files, build per-storm event tables, surge metrics, flood footprints, tide and rainfall timing, validation, maps and animations.
 
-First release of sloshR (22 December 2024).
-
 sloshR reads, analyses and visualises NOAA SLOSH storm surge model runs (rex files) in R.
 
 Highlights
